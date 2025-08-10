@@ -3,10 +3,12 @@
 A machine learning-powered web application that detects whether a given message is Spam or Ham using Natural Language Processing (NLP) techniques.
 Built with Python, Flask, and Scikit-learn, trained on a labeled dataset of spam/ham messages.
 first step download this file and extract
+<br>
  Project Structure
 graphql
 Copy
 Edit
+<br>
 spam-detection-app/
 │── app.py               # Flask web app
 │── model.pkl            # Trained ML model
